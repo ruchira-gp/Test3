@@ -1,0 +1,39 @@
+h1{
+    font-size:5rem;
+    margin:0;
+}
+.heading{
+    background-color:#161E54;
+    color: white;
+}
+body{
+    margin: auto;
+    background-color:powderblue;
+}
+.first-page , .second-page{
+    height:100vh;
+}
+.first-page{
+    display:flex;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding:30px;
+    
+    
+    background-color:#FF5151;
+}.second-page{
+    background-color:#FF9B6A;
+}
+#features{
+    margin:auto;
+    padding:20px;
+}
+.disappear{
+    visibility: hidden;
+}
+.rr1 ,.rr2 {
+    opacity: 0;
+}
+.ll1 ,.ll2 {
+    opacity: 0;
+}
