@@ -47,6 +47,10 @@ tl2.fromTo(".rr1", {x:0 ,opacity: 1}, {y:-100,opacity: 0, duration: 1,})
 .fromTo(".rr2", {x:0 ,opacity: 1}, {y:-100,opacity: 0, duration: 1,});
 tls.to(".smiley",{rotation:180});
 
+
+//Wont work 
+
+
 // tl2
 // .to('.ll1', { y:100 ,opacity: 1, duration: 0.5 })
 // .to('.ll1', { opacity: 0, duration: 0.5 },
